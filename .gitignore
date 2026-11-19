@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Données téléchargées automatiquement
+data/
+.ipynb_checkpoints/
